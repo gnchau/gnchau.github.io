@@ -17,8 +17,7 @@ url:              http://gnchau.github.io
 baseurl:          /gnchau.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'gnchau'
 gems: [jekyll-paginate, jekyll-gist]
 plugins: [jekyll-paginate]
 paginate:         5
@@ -26,6 +25,3 @@ paginate_path:  "page:num"
 
 # Custom vars
 version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
