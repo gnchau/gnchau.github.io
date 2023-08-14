@@ -254,7 +254,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 228)
-  jekyll (~> 3.9.3)
+  jekyll
   jekyll-gist
   jekyll-paginate
   jekyll-seo-tag
