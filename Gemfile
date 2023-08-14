@@ -5,7 +5,8 @@ gem "jekyll", "~> 3.9.3"
 gem "jekyll-paginate"
 gem "jekyll-gist"
 gem "github-pages", "~> 228", group: :jekyll_plugins# gem "rails"
-#
+gem "webrick"
+gem "jekyll-seo-tag"
 group :jekyll_plugins do
    gem "jekyll-gist"
  end
