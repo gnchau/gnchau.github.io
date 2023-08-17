@@ -13,7 +13,7 @@ title:            Grant Chau
 tagline:          'Aspiring Bioinformatician'
 description:      'Currently <a href="https://www.broadinstitute.org/stanley-center-psychiatric-research/genetics" target="_blank">@Broad</a>'
 url:              https://gnchau.github.io/              
-baseurl:          '/'
+baseurl:          '/gnchau.github.io/'
 
 author:
   name:           'Grant Chau'
