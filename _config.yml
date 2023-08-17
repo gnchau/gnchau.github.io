@@ -1,20 +1,23 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
+kramdown:
+  input: GFM
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Grant Chau
-#tagline:          'something WICKED'
+title:            Hyde
+tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://gnchau.github.io
+url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'gnchau'
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 gems: [jekyll-paginate, jekyll-gist]
 plugins: [jekyll-paginate]
 paginate:         5
@@ -22,3 +25,6 @@ paginate_path:  "page:num"
 
 # Custom vars
 version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
