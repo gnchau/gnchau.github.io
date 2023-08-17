@@ -28,6 +28,6 @@ version:          2.1.0
 github:
   repo:           https://gnchau.github.io/
 
-collections:
-  pages:
-    output: true
+# collections:
+#   pages:
+#     output: true
