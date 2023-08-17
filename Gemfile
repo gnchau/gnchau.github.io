@@ -6,4 +6,9 @@ gem "jekyll-gist"
 gem "jekyll-seo-tag"
 # gem "rails"
 #
+gem 'pygments.rb'
 
+
+gem "webrick", "~> 1.8"
+
+gem "rexml", "~> 3.2"
