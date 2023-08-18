@@ -2,14 +2,14 @@
 layout: post
 title: Hi! I'm Grant.
 ---
-I’m interested in the intrinsic structures found in large, high-dimensional [biomedical datasets](https://pan.ukbb.broadinstitute.org/){:target="_blank"} and the conditions under which these structures can be recovered, deconvolved, and interpreted. I am extremely lucky to be advised by Dr. Dan Howrigan, Dr. Wei Zhou, and Daniel Lazarev in the [Neale Lab](https://www.broadinstitute.org/bios/benjamin-neale){:target="_blank"} of the [Broad Institute](https://www.broadinstitute.org/){:target="_blank"}/[ATGU](https://www.atgu.mgh.harvard.edu/){:target="_blank"}, where I assist in the design and implementation of novel algorithms to uncover the genetic basis of complex diseases. 
+I’m interested in the intrinsic structures found in large, high-dimensional [biomedical datasets](https://pan.ukbb.broadinstitute.org/){:target="_blank"} and the conditions under which these structures can be recovered, deconvolved, and interpreted. I am extremely lucky to be advised by [Dr. Dan Howrigan](https://www.atgu.mgh.harvard.edu/people/dan-howrigan/){:target="_blank"}, [Dr. Wei Zhou](https://www.atgu.mgh.harvard.edu/people/wei-zhou/){:target="_blank"}, and [Daniel Lazarev](https://daniellazarev.wordpress.com/){:target="_blank"} in [Ben Neale's Lab](http://www.nealelab.is/){:target="_blank"} of the [Broad Institute](https://www.broadinstitute.org/){:target="_blank"}/[ATGU](https://www.atgu.mgh.harvard.edu/){:target="_blank"}, where I assist in the design and implementation of novel algorithms to uncover the genetic basis of complex diseases. 
 
-I completed my Math/CS undergraduate training at Northeastern University in the Khoury College of Computer Sciences. I was previously advised by Dr. Ennio Mingolla, as well as Evan Liu and Dr. Sertan Kaya on deep learning/computer vision applied to healthcare problems during my time at [Northeastern University](https://web.northeastern.edu/cvl/ennio){:target="_blank"} and [Genentech](https://www.gene.com/){:target="_blank"}, respectively. I also completed an [REU](https://sites.google.com/view/rtg-northeastern/home){:target="_blank"} in the summer of 2021, where I investigated the security and extensibility of the IOTA cryptocurrency through the lens of spectral graph theory.
+I completed my undergraduate training in maths and computer science at Northeastern University in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/){:target="_blank"}. Previously, I worked on topics in applied computer vision, self-supervised learning, and computational pathology, under the various supervisions of [Dr. Ennio Mingolla](https://web.northeastern.edu/cvl/ennio){:target="_blank"} at Northeastern University and Evan Liu and Dr. Sertan Kaya at [Genentech](https://www.gene.com/){:target="_blank"}. I also completed an [REU](https://sites.google.com/view/rtg-northeastern/home){:target="_blank"} in the summer of 2021, where I investigated the security and extensibility of the IOTA cryptocurrency through the analytical framework of spectral graph theory.
 
 
 ### Contact Me
 
-Please reach out by email at <code>gchau[at]broadinstitute[dot]org</code>, or on my socials linked on the side. 
+Please reach out by email at <code>gchau&lt;at&gt;broadinstitute&lt;dot&gt;org</code>, or on my socials linked on the side. 
 
 *I am applying to graduate programs to begin a PhD in Fall 2024. I would love to talk with potential advisors about mutual research interests!*
 
