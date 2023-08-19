@@ -31,17 +31,17 @@
  * Update the foundational and global aspects of the page.
  */
 
-html {
+ html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 18px;
+    font-size: 1.1rem;
   }
 }
 
@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 21rem;
+    width: 26rem;
     text-align: left;
   }
 }
@@ -80,7 +80,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.14rem;
+  font-size: 4rem;
 }
 
 /* Sidebar nav */
@@ -126,17 +126,17 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 48rem) {
   .content {
     max-width: 38rem;
-    margin-left: 25vw;
+    margin-left: 20rem;
     margin-right: 2rem;
   }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 64rem) {
   .content {
-    margin-left: 28vw;
+    margin-left: 28rem;
     margin-right: 4rem;
   }
 }
@@ -161,8 +161,8 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 64em) {
   .layout-reverse .content {
-    margin-left: 25vw;
-    margin-right: 20rem;
+    margin-left: 4rem;
+    margin-right: 22rem;
   }
 }
 
@@ -233,16 +233,6 @@ a.sidebar-nav-item:focus {
 
 /* Magenta */
 .theme-base-0e .sidebar {
-  background-color: #aa759f;
-}
-.theme-base-0e .content a,
-.theme-base-0e .related-posts li a:hover {
-  color: #aa759f;
-}
-
-/* Magenta Reversed */
-.theme-base-0e-reversed .sidebar {
-  
   background-color: #aa759f;
 }
 .theme-base-0e .content a,
