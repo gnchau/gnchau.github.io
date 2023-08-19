@@ -243,6 +243,15 @@ a.sidebar-nav-item:focus {
   color: #aa759f;
 }
 
+/* Pastel Purple */
+.theme-base-me .sidebar {
+  background-color: #B19CD9 ;
+}
+.theme-base-me .content a,
+.theme-base-me .related-posts li a:hover {
+  color: #B19CD9 ;
+}
+
 /* Brown */
 .theme-base-0f .sidebar {
   background-color: #8f5536;
