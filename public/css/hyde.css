@@ -95,9 +95,9 @@ a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: underline;
 }
-.sidebar-nav-item.active {
+/* .sidebar-nav-item.active {
   font-weight: bold;
-}
+} */
 
 /* Sticky sidebar
  *
@@ -164,6 +164,9 @@ a.sidebar-nav-item:focus {
     margin-left: 24rem;
     margin-right: 22rem;
   }
+}
+.sidebar-nav-item.active {
+  font-weight: bold;
 }
 
 
