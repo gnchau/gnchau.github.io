@@ -155,14 +155,14 @@ a.sidebar-nav-item:focus {
   }
   .layout-reverse .content {
     margin-left: 22rem;
-    margin-right: 22rem;
+    margin-right: 22em;
   }
 }
 
 @media (min-width: 64em) {
   .layout-reverse .content {
     margin-left: 24rem;
-    margin-right: 22rem;
+    margin-right: 22em;
   }
 }
 .sidebar-nav-item.active {
