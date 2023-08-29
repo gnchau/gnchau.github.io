@@ -2,8 +2,10 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
+        <a href="https://kirbycafe.jp/tokyo/" target="_blank">
          <img src="{{ "/public/profile_picture.png" | relative_url }}" alt="no picture" class="inline"/> 
-        <a href="{{ site.baseurl }}">
+      </a>
+        <a href="{{ "/" | relative_url }}">
           {{ site.title }}
         </a>
       </h1>
@@ -31,6 +33,6 @@
       <a class="sidebar-nav-item" href="https://www.linkedin.com/in/g-chau/" target="_blank">LinkedIn</a>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>  &copy; {{ site.time | date: '%Y' }}. Built with <a href="https://github.com/poole/hyde" target="_blank">Hyde</a>.</p>
   </div>
 </div>
