@@ -7,7 +7,7 @@ I'm interested in the intrinsic structures present within extensive, high-dimens
 
 I completed my undergraduate training in maths and computer science at Northeastern University in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/){:target="_blank"}. Previously, I worked on topics in applied computer vision, self-supervised learning, and computational pathology, under the various supervisions of [Dr. Ennio Mingolla](https://web.northeastern.edu/cvl/ennio){:target="_blank"} at Northeastern University and Evan Liu and Dr. Sertan Kaya at [Genentech](https://www.gene.com/){:target="_blank"}.
 
-I have been extremely fortunate to have great mentors. If you think that you would benefit from chatting with me about seeking work or research opportunities, my experiences at various instiutions, etc., please do not hesitate to reach out.
+I have been extremely fortunate to have great mentors. If you think that you would benefit from chatting with me about seeking work or research opportunities, my experiences at various institutions, etc., please do not hesitate to reach out.
 
 
 ### Contact Me
