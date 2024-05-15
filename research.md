@@ -5,6 +5,14 @@ title: Research
 
 ---
 
+***GUIDE deconstructs genetic architectures using association studies*** \\
+Daniel Lazarev, Grant Chau, Alex Bloemendal, Claire Churchhouse, Benjamin M Neale\\
+See [preprint](https://www.biorxiv.org/content/10.1101/2024.05.03.592285v1){:target="blank"}.
+
+<p style="font-size: 16px;"><b>Abstract</b> Genome-wide association studies have revealed that the genetic architecture of most complex traits is characterized by a large number of distinct effects scattered across the genome. Functional enrichment analyses of these results suggest that the associations for any given complex trait are not purely random. Thus, we set out to leverage the genetic association results from many traits with a view to identifying the set of modules, or latent factors, that mediate these associations. The identification of such modules may aid in disease classification as well as the elucidation of complex disease mechanisms. We propose a method, Genetic Unmixing by Independent Decomposition (GUIDE), to estimate a set of statistically independent latent factors that best express the patterns of association across many traits. The resulting latent factors not only have desirable mathematical properties, such as sparsity and a higher variance explained (for both traits and variants), but are also able to single out and prioritize key biological features or pathophysiological mechanisms underlying a given trait or disease. Moreover, we show that these latent factors can index biological pathways as well as epidemiological and environmental influences that compose the genetic architecture of complex traits. </p>
+
+---
+
 ***GUIDE learns interpretable latent factors from genetic association studies***  \\
 Daniel Lazarev, Alex Bloemendal, Grant Chau, Claire Churchhouse, Benjamin Neale\\
 [**ASHG 2023 Annual Meeting**](https://www.ashg.org/meetings/2023meeting/){:target="_blank"}\\
