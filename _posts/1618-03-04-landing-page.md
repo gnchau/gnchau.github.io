@@ -13,5 +13,3 @@ I have been extremely fortunate to have great mentors. If you think that you wou
 ### Contact Me
 
 Please reach out by email at <code>gchau&lt;at&gt;broadinstitute&lt;dot&gt;org</code>, or on my socials linked on the side. 
-
-*I am applying to graduate programs to begin a PhD in Fall 2024. I would love to talk with potential advisors about mutual research interests!*
