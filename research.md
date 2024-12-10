@@ -3,7 +3,6 @@ layout: page
 title: Research
 menu: main
 ---
-
 ---
 
 ***GUIDE deconstructs genetic architectures using association studies*** \\
