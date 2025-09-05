@@ -25,7 +25,7 @@ type: preprint
 selected: true
 featured: true
 feature-order: 2
-feature-description: Independent latent factors underlying genetic associations across traits
+feature-description: Parimonious latent factors underlying genetic associations across traits
 image: /images/papers/guide-vis-abstract.jpg
 coming-soon: false
 makeCard: true
