@@ -1,15 +1,16 @@
-- institution: Genentech
-  location: "South San Francisco, CA (remote)"
-  position: Deep Learning Data Analyst
-  year: "July 2021 — Dec. 2021"
-  group: Development Science Informatics
-  type: industry
-
 - institution: CareWallet
   location: "Boston, MA"
   position: Founding Engineer and Technical Lead
   year: "July 2023 — Feb. 2024"
   group: Software and Engineering Team
+  type: industry
+
+
+- institution: Genentech
+  location: "South San Francisco, CA (remote)"
+  position: Deep Learning Data Analyst
+  year: "July 2021 — Dec. 2021"
+  group: Development Science Informatics
   type: industry
 
 
