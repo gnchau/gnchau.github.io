@@ -1,0 +1,54 @@
+- id: home
+  description: "gnchau.github.io"
+  color: "#515151"
+  class: "fas fa-home icon"
+  url: "https://gnchau.github.io"
+  on-homepage: false
+  cv-group: 1
+
+- id: email
+  description: "grant.n.chau.gr@dartmouth.edu"
+  color: "#515151"
+  class: "fas fa-envelope icon"
+  url: "mailto:grant.n.chau.gr@dartmouth.edu"
+  on-homepage: true
+  cv-group: 1
+
+# - id: twitter
+#   description: "@kevinyli_"
+#   color: "#1da1f2"
+#   class: "fab fa-twitter icon"
+#   url: https://twitter.com/KevinYLi_
+#   on-homepage: true
+#   cv-group: 2
+
+- id: github
+  description: "@gnchau"
+  color: "#6e5494"
+  class: "fab fa-github icon"
+  url: "https://github.com/gnchau"
+  on-homepage: true
+  cv-group: 2
+
+- id: scholar
+  description: "Google Scholar"
+  color: "#515151"
+  class: "fa fa-graduation-cap icon"
+  url: "https://scholar.google.com/citations?user=_nI37L8AAAAJ&hl=en"
+  on-homepage: true
+  cv-group: 2
+
+# - id: cv
+#   description: CV PDF
+#   color: "#ba2818"
+#   class: "far fa-file-pdf icon"
+#   url: "/cv.pdf"
+#   on-homepage: false
+#   cv-group: 1
+
+- id: cv-web
+  description: <b>Click here for my full CV</b>
+  color: "#515151"
+  class: "fa fa-address-card icon"
+  url: "/cv"
+  on-homepage: false

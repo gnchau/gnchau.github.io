@@ -1,0 +1,19 @@
+{
+  "name": "gnchau.github.io",
+  "version": "1.0.0",
+  "description": "Grant's website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve --livereload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnchau/gnchau.github.io.git"
+  },
+  "author": "Grant Chau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gnchau/gnchau.github.io/issues"
+  },
+  "homepage": "https://github.com/gnchau/gnchau.github.io#readme"
+}

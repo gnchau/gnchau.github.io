@@ -1,0 +1,15 @@
+- degree: "Ph.D. in Computer Science"
+  years: "Sep. 2025 — Current"
+  institution: Dartmouth College, Department of Computer Science
+  location: "Hanover, NH"
+  description:
+   - "Advised by Sarah Masud Pruem and Indrani Bhattacharya"
+  institution-url: https://web.cs.dartmouth.edu/
+
+- degree: "B.S. in Computer Science and Mathematics"
+  years: "Sep. 2019 — May 2022"
+  institution: Northeastern University, Khoury College of Computer Sciences
+  location: "Boston, MA"
+  description: 
+    - "Graduated Magna Cum Laude and University Honors"
+  institution-url: "https://www.khoury.northeastern.edu/"

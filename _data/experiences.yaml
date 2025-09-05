@@ -1,0 +1,59 @@
+- institution: Genentech
+  location: "South San Francisco, CA (remote)"
+  position: Deep Learning Data Analyst
+  year: "July 2021 — Dec. 2021"
+  group: Development Science Informatics
+  type: industry
+
+- institution: CareWallet
+  location: "Boston, MA"
+  position: Founding Engineer and Technical Lead
+  year: "July 2023 — Feb. 2024"
+  group: Software and Engineering Team
+  type: industry
+
+
+
+  # ACADEMIC EXPERIENCES HERE
+
+- institution: Broad Institute of MIT and Harvard, 
+  location: "Cambridge, MA"
+  position: Associate Computational Biologist
+  group: "Neale Lab"
+  year: "Sep. 2022 - Jul. 2025"
+  mentors: 
+    -  Daniel Lazarev
+    -  Wei Zhou
+    -  Rahul Gupta
+  advisor: true
+  description: "Developed methods to help elucidate the genetic architecture of complex traits."
+  institution-url: https://www.broadinstitute.org/
+  group-url: "https://www.nealelab.is/"
+  type: academic
+
+
+- institution: Northeastern University Mathematics Department, 
+  location: "Boston, MA"
+  position: Undergraduate Research Fellow
+  group: "RTG @ NEU: Algebraic Geometry and Representation Theory"
+  year: "May. 2021 - June 2021"
+  mentors: 
+    -  Anupam Kumar
+  advisor: true
+  description: "Analyzed the growth and stability of a stochastic DAG via simulation and methods from algebraic geometry."
+  institution-url: https://cos.northeastern.edu/nucos-department/mathematics/
+  group-url: https://sites.google.com/view/rtg-northeastern/undergraduate/independent-research-experience/reu-2021?authuser=0
+  type: academic
+
+- institution: Schepen's Eye and Ear, 
+  location: "Boston, MA"
+  position: Student Researcher
+  year: "Jan. 2019 — Dec. 2019"
+  mentors: 
+    - Ennio Mingolla
+  advisor: true
+  description: "Developed ML pipelines for low-vision navigation around cities."
+  institution-url: https://coe.northeastern.edu/
+  group: "Computational Vision Laboratory"
+  group-url: https://coe.northeastern.edu/people/mingolla-ennio/
+  type: academic

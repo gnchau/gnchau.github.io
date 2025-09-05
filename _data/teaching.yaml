@@ -1,0 +1,29 @@
+- institution:  Northeastern University
+  position: Classroom Assistant
+  location: "Boston, MA"
+  year: Fall 2023
+  class: "HONR 1310 - Your Eye and AI"
+  instructor: Ennio Mingolla
+  ta: true
+  class-url: false
+
+- institution:  Northeastern University
+  position: Classroom Assistant
+  location: "Boston, MA (remote)"
+  year: Fall 2021
+  class: "HONR 1310 - Your Eye and AI"
+  instructor: Ennio Mingolla
+  ta: true
+  class-url: false
+
+
+- institution:  Northeastern University
+  position: Teaching Assistant
+  location: "Boston, MA (remote)"
+  year: Fall 2020
+  class: "CS 1800 - Discrete Structures"
+  instructor: 
+  - Ben Hescott
+  - Virgil Pavlu
+  ta: true
+  class-url: false
