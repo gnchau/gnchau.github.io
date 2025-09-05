@@ -21,7 +21,7 @@
   location: "Cambridge, MA"
   position: Associate Computational Biologist
   group: "Neale Lab"
-  year: "Sep. 2022 - Jul. 2025"
+  year: "Sep. 2022 — Jul. 2025"
   mentors: 
     -  Daniel Lazarev
     -  Wei Zhou
@@ -37,7 +37,7 @@
   location: "Boston, MA"
   position: Undergraduate Research Fellow
   group: "RTG @ NEU: Algebraic Geometry and Representation Theory"
-  year: "May. 2021 - June 2021"
+  year: "May. 2021 — June 2021"
   mentors: 
     -  Anupam Kumar
   advisor: true
